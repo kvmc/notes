@@ -1,2 +1,13 @@
-https://mthcht.github.io/ThreatIntel-Reports/
 
+
+https://mthcht.github.io/ThreatIntel-Reports/
+https://rosti.bin.re
+
+
+threatintel resources
+
+https://www.team-cymru.com
+
+https://docs.hudsonrock.com
+https://search.censys.io
+https://www.shodan.io
