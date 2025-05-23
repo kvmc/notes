@@ -31,14 +31,16 @@
 - https://github.com/renatoalmeidaoliveira/pybins
 
 ## malware
-https://malapi.io
+- https://malapi.io
 
 
 
 ## CTFs
-https://pwnable.xyz/challenges/
+- https://pwnable.xyz/challenges/
 
 ## OSINT
-https://osintportal.com
+- https://osintportal.com
+- https://search.censys.io
+- https://www.shodan.io
 
 
